@@ -1,0 +1,9 @@
+rules:
+  - threshold: 4
+    cpu: "100m"
+  - threshold: 8
+    cpu: "150m"
+  - threshold: 12
+    cpu: "200m"
+  - threshold: 20
+    cpu: "250m"
